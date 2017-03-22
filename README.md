@@ -2,7 +2,7 @@
 Using pure JavaScript to load Stylesheets and JavaScript files asynchronously into webpage
 
 
-### LoadScript
+### LoadScript.js
 Load JavaScript files in an async manner using the `LoadScript` function
 
 ##### Usage
@@ -15,7 +15,7 @@ LoadScript('https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js', t
 ```
 
 
-### LoadStyle
+### LoadStyle.js
 Load Stylesheet files in an async manner using the `LoadStyle` function
 
 ##### Usage
